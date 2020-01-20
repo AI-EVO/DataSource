@@ -1,7 +1,6 @@
 package com.aievo.demo.repository;
 
 import com.aievo.demo.model.User;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Optional;
